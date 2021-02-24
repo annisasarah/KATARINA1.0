@@ -6,3 +6,7 @@ The tutorials are written in Bahasa Indonesia, the codes are also available.
 All Physical modules are stored at Atma Jaya Catholic University of Indonesia, Telecommunication Lab (4th floor)
 
 Please read the: DIKTAT KATARINA 1.0 to run the experiments
+
+
+This project was supported by Center of Robotics and IoT, Faculty of Engineering, Atma Jaya Catholic University of Indonesia. 
+please visit https://www.atmajaya.ac.id/web/Fakultas.aspx?ou=teknik for any information and update about Faculty's research.
